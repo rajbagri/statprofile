@@ -35,16 +35,6 @@
 
 ---
 
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/rajbagri/statprofile/master/profile-summary-card-output/buefy/2-most-commit-language.svg)
-```
-
-    
-
----
-
 ![](./3-stats.svg)
 
 ```
